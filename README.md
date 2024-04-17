@@ -1,6 +1,6 @@
 # NYP_EGL314_Bootcamp
 
-test message
+a quick refresher course on python and rasp pi :)
 
 ```mermaid
 graph LR
